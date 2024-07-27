@@ -7,4 +7,6 @@ def get_matrix(n, m, value):
         matrix.append(a)
     return matrix
 
-print(get_matrix(7, 2, 13))
+print(get_matrix(2, 2, 10))
+print(get_matrix(3, 5, 42))
+print(get_matrix(4, 2, 13))
